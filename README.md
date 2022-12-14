@@ -8,4 +8,4 @@ Programlama dillerinden bağımsız bir şekilde tasarım yapma ve bunu görsel 
 ## Access Modifier - Erişim Belirleyicileri
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/access-modifiers.png)
 
-birinci görseldeki bulunan class temsilindeki işaretlerin anlamları yandaki tabloda görünmektedir.
+birinci görseldeki bulunan class temsilindeki işaretlerin anlamları yukarıdaki tabloda görünmektedir. Herhangi bir oop dil içerisindeki örnek olarak c# içerisindeki erişim belirleyicilerini karşılar 

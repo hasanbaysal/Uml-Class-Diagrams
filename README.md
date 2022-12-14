@@ -69,13 +69,19 @@ Usage İlişkisi nesneler arasında çalışma zamanında şu şekillerde olabil
 <br />
 
 
-### Generallization/Inheritance - Kalıtım İlişkisi  ilişkisi
+### Generallization/Inheritance - Kalıtım İlişkisi 
 
 oop paradigmalarına aşinaysanız kalıtımın ne olduğunu ve ne kadar çok kullanıldığını biliyorsunuzdur. Bu ilişki türü aşağıdaki şekilde gösteririlir
 
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/kalıtım.png)
 
 
+
+### Realization - Gerçekleşme İlişkisi 
+
+İnterfacelerin implemente edilmesi durumunu ifade eden bu ilişki türü aşağıdaki şekildedir. Inheritance'ye benzerlik gösterir aradaki ilişki kesikli çizgilerledir. 
+
+![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/realization.webp)
 
 
 ---------------------------

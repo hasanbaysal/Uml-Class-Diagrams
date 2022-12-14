@@ -53,7 +53,7 @@ Bir insanı bilgisayar ortamındaki bir nesne olarak ele alalım ve insanı meyd
 Bir nesnenin başka bir nesneye bağımlı olması durumudur. Bağımlı olunan nesne üzerinde yapılan değişiklik. Bağımlılığın gerçekleştiği yerde değişimleri beraberinde zorunlu kılabilir. 
 A sınıfı B sınıfına bağımlı ise A sınıfı  üst bir yapıdır B ise alt yapıdır. 
 
-![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/dependency.png)
+![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/Dependency.png)
 
 **USAGE İLİŞKİSİ** <br />
 

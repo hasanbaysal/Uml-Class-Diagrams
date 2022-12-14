@@ -84,6 +84,13 @@ oop paradigmalarına aşinaysanız kalıtımın ne olduğunu ve ne kadar çok ku
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/realization.webp)
 
 
+
+### ÖRNEK BİR TASARIM DESENİ ÜZERİNDE UML DİYAGRAMI
+iterator tasarım deseninin ifade ediliş biçimi
+![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/iteratorpattern1.png)
+
+
+
 ---------------------------
 **_KAYNAKLAR_**
 [Kaynak 1](https://github.com/kaymal)

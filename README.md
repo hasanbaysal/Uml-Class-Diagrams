@@ -32,7 +32,7 @@ Assocaition'ın özelbir halidir. Aslında kodsal manada bir farklılık yokdur.
 - her aggregation aynı zamanda bir associationdır
 - bu ilişki türünde parçalar ve bütünler birbirinden ayrı şekilde yaşayabilir
 
-**Örnek olarak\ .**
+**Örnek olarak :**
 Bilgisayar ve çevresel diğer donanımları düşünün. Monitör, yazıcı, klavye, fare, kulaklık bunların hepsi bize masaüstü bilgisayarı verebilir bir  araya gelerek. Bu parçaları tek başına da ele alabiliriz. Parçalardan birinin nesnesel olarak hayatı bitince diğer parçalar bundan etkilenmiyor.
 
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/aggregation.png)
@@ -41,7 +41,7 @@ Bilgisayar ve çevresel diğer donanımları düşünün. Monitör, yazıcı, kl
 Bu ilişki de Assocaition'ın özel bir türüdür. Aggregation ile çok benziyor lakin buradaki fark nesnelerin tek başına bir anlam ifade etmemesidir. Bu ilişkide parçalar ve bütün birbiridnen bağımsız şekilde bulunmaz. 
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/COPM.png)
 
-**Örnek olarak\ .**
+**Örnek olarak :**
 Bir insanı bilgisayar ortamındaki bir nesne olarak ele alalım ve insanı meydana getiren organlarının ayrı birer parça olarak ele alalım. Doğal olarak bu parçalar arasındaki birlikte olma haliyle ortaya konulan iliki aslında insan sınıfndan oluşna insan nesnesini bir araya getirir. Bu parçaların kendi başlarıan bir anlamı yoktur. Sadece kalp tek başına bir anlam ifade etmez sağlıklı bir şekilde o organın çalışabilmesi için bir vucüt sisteminin içinde olması gerek. Yani parça ve bütün ayrı ayrı ele alınamaz. Agrregation ile arasındaki en büyük fark budur
 
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/farklar.png)

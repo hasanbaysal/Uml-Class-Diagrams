@@ -20,7 +20,7 @@ Bir sınıf başka bir sınıf türünden nesne referansına sahip olabilir. Bu 
 
 ***Bu ilişki tek yönlüyse yani sadece bir taraf diğerine ait bir referans tutuyor ise bu ilişkiyi bir ok çizerek gösteririz. Bu okun yönü referansı tutulan nesneye doğru olacaktır***
 
-Mesela sipariş sınıfı müşteriye ait bir referans tutar çünkü siparişin hangi müşteriye ait olduğu bilinemelidir.
+Mesela sipariş sınıfı müşteriye ait bir referans tutar çünkü siparişin hangi müşteriye ait olduğu bilinemelidir.\
 **Sipariş =========> Müşteri**
 
 ![uml](https://github.com/hasanbaysal/Uml-Class-Diagrams/blob/master/images/assocaition.png)

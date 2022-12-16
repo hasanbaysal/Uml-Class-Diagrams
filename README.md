@@ -92,7 +92,7 @@ iterator tasarım deseninin ifade ediliş biçimi
 
 
 ---------------------------
-**_KAYNAKLAR_**
+### KAYNAKLAR 
 - [Kaynak 1](https://github.com/kaymal)
 - [Kaynak 2](http://www.cs.sjsu.edu/~pearce/modules/lectures/uml/class/association)
 - [Kaynak 3](https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c)

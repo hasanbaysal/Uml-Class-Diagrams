@@ -93,8 +93,9 @@ iterator tasarım deseninin ifade ediliş biçimi
 
 ---------------------------
 **_KAYNAKLAR_**
-[Kaynak 1](https://github.com/kaymal)
-[Kaynak 2](http://www.cs.sjsu.edu/~pearce/modules/lectures/uml/class/association)
-[Kaynak 3](https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c)
-[kaynak 4](https://www.includekarabuk.com/kategoriler/genel/UML-Sinif-Diyagrami-Iliskileri.php#Dependency)
-[kaynak 5](https://www.c-sharpcorner.com/UploadFile/ff2f08/association-aggregation-and-composition/)
+- [Kaynak 1](https://github.com/kaymal)
+- [Kaynak 2](http://www.cs.sjsu.edu/~pearce/modules/lectures/uml/class/association)
+- [Kaynak 3](https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c)
+- [kaynak 4](https://www.includekarabuk.com/kategoriler/genel/UML-Sinif-Diyagrami-Iliskileri.php#Dependency)
+- [kaynak 5](https://www.c-sharpcorner.com/UploadFile/ff2f08/association-aggregation-and-composition/)
+- [Kaynak 6 kod örnekleriyle](https://medium.com/@ibrahimyengue/association-aggregation-and-composition-in-c-8cbeaa81201d)
